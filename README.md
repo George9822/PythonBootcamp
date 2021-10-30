@@ -1,2 +1,2 @@
 # PythonPrjs
-Python Projects - Data Bootcamps
+Python Projects - Data Bootcamp
